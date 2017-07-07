@@ -1,6 +1,6 @@
 # Agmarknet
 
-This public repository contains data relating to Indian wholesale food markets. 
+This public repository contains data relating to Indian wholesale food markets. It contains about 4 million data points relating to 12 food products during the period 2008 through June 2017.
 
 ## Data source
 
@@ -14,4 +14,6 @@ The names of the columns, as defined by the Agmarknet website, are: 'State Name'
 
 ## How it was obtained
 
-I downloaded the data in June 2017. At of today (July 6th, 2017) it's not possible to download more than one day's data at once. To cope with this I used the Python packages Mechanize and BeautifulSoup, and deployed a script on Google Cloud.
+I downloaded the data in June 2017. At this time (July 6th, 2017) it's not possible to download more than one day's data at once. To cope with this I used the Python packages Mechanize and BeautifulSoup and deployed a script on Google Cloud.
+
+The repository is not being continually updated with new data.
